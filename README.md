@@ -1,5 +1,5 @@
-# un4_csharp
-Algorithm trough wich variables encomposing random numbers output a repeating set of numbers.
+# Geometric Algorthymic[sic] Shortcut
+It does not matter which numbers you input into this algo, their repetive constituents will always carry the same modulation and frequency of their appearance being random, however it has a function in the decimals and this decimal is utilized for round.time of the WLKR0.99 program which is called a denigration, but I won't tell you more.
 
 ![Confirmed_suspicion](https://github.com/V3RDAD/un4_csharp/blob/main/un4_c%23.PNG)
 
